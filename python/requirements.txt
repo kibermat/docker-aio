@@ -1,5 +1,5 @@
 SQLAlchemy==1.3.13
-tornado==6.0.4
+tornado==6.3.3
 psycopg2==2.8.4
 aiopg>=1.0.0
 aio-pika>=6.5.3
